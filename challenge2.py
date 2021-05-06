@@ -13,5 +13,5 @@ for elem3 in liquorlst:
     partylst.append(elem3)
 
 print(partylst)
-
-backwardslst = partylist.reverse()
+partylst.reverse()
+print(partylst)
