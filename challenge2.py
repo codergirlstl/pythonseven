@@ -15,3 +15,5 @@ for elem3 in liquorlst:
 print(partylst)
 partylst.reverse()
 print(partylst)
+partylst.remove("ballloons")
+print(partylst)
